@@ -1,9 +1,9 @@
 ## Howdy there traveler 👋
 
 
-  <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/overview.svg" />
 <div class="row">
-  <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
+  <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/languages.svg" />
   <img src="https://raw.githubusercontent.com/Yann21/Yann21/ce66b2684cc396edd75bca651bc882f9554e8063/res/languages.svg" />
 </div>
 
