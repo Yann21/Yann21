@@ -1,4 +1,4 @@
-### Howdy there traveler 👋
+## Howdy there traveler 👋
 
 
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
