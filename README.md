@@ -3,6 +3,7 @@
 <div class="row">
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
+  <img src="https://github.com/Yann21/Yann21/res/languages.svg" />
 </div>
 
 ### Other Languages Used <!-- add joke -->
