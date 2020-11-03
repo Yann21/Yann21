@@ -3,7 +3,7 @@
 <div class="row">
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
-  <img src="https://github.com/Yann21/Yann21/blob/main/res/languages.svg" /> <!-- add joke -->
+  <img src="https://github.com/Yann21/Yann21/blob/main/res/languages.svg" />
 </div>
 
 ### 🔭 I’m currently working on ...
