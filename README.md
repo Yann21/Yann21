@@ -9,11 +9,11 @@
 * German
 * Luxembourgish
 
-- 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 * Open Source Benchmarking
 * Transfer Learning project
 * Big Data framework comparison on UL HPC - Iris Cluster
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 * AWS Cloud Practionner
 * TensorFlow Certification
 
