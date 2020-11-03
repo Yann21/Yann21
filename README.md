@@ -1,4 +1,4 @@
-### Howdie there traveller 👋
+### Howdy there traveler 👋
 
 <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
 <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
