@@ -1,7 +1,9 @@
 ### Howdy there traveler 👋
 
-<img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
-<img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
+<div class="row">
+  <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" style="width: 40%;" />
+  <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" style="width: 40%;" />
+</div>
 
 ### Other Languages Used <!-- add joke -->
 * French
