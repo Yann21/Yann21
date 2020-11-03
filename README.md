@@ -1,9 +1,10 @@
-### Howdy there traveler 👋
+## Howdy there traveler 👋
 
-<div class="row">
+
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
+<div class="row">
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
-  <img src="https://github.com/Yann21/Yann21/blob/main/res/languages.svg" /> <!-- add joke -->
+  <img src="https://github.com/Yann21/Yann21/blob/main/res/languages.svg" />
 </div>
 
 ### 🔭 I’m currently working on ...
@@ -13,6 +14,9 @@
 ### 🌱 I’m currently learning ...
 * AWS Cloud Practionner
 * TensorFlow Certification
+
+## Previous Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yann21/Yann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
