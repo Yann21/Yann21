@@ -1,4 +1,4 @@
-## Howdy there traveler 👋
+## Howdy there, traveler 👋
 
 
   <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/overview.svg" />
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+## Before you go... Let's stay in touch
+<img src="https://img.shields.io/badge/Samuel Prevost%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
