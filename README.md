@@ -10,9 +10,9 @@
 * Luxembourgish
 
 ### 🔭 I’m currently working on ...
-* Open Source Benchmarking
-* Transfer Learning project
-* Big Data framework comparison on UL HPC - Iris Cluster
+* Open Source Benchmarking (Student Job)
+* Transfer Learning (ML project)
+* Big Data framework comparison on the UL HPC - Iris Cluster
 ### 🌱 I’m currently learning ...
 * AWS Cloud Practionner
 * TensorFlow Certification
