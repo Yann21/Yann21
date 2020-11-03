@@ -1,8 +1,8 @@
 ### Howdy there traveler 👋
 
 <div class="row">
-  <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" style="width: 40%;" />
-  <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" style="width: 40%;" />
+  <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" style="width: 33%;" />
+  <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" style="width: 33%;" />
 </div>
 
 ### Other Languages Used <!-- add joke -->
