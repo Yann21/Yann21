@@ -3,14 +3,8 @@
 <div class="row">
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/overview.svg" />
   <img src="https://github.com/Yann21/github-stats/blob/master/generated/languages.svg" />
-  <img src="https://github.com/Yann21/Yann21/res/languages.svg" />
+  <img src="https://github.com/Yann21/Yann21/blob/main/res/languages.svg" /> <!-- add joke -->
 </div>
-
-### Other Languages Used <!-- add joke -->
-* French
-* English
-* German
-* Luxembourgish
 
 ### 🔭 I’m currently working on ...
 * Open Source Benchmarking (Student Job)
