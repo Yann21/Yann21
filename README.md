@@ -1,6 +1,8 @@
 ## Howdy there, traveler 👋
 
 
+[![Sai's github stats](https://github-readme-stats.vercel.app/api?username=jrsai)](https://github.com/jrsai/github-readme-stats)
+
   <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/overview.svg" />
 <div class="row">
   <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/languages.svg" />
