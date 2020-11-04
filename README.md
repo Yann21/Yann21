@@ -3,7 +3,6 @@
 
 [![Yann's github stats](https://github-readme-stats.vercel.app/api?username=Yann21)](https://github.com/Yann21/github-readme-stats)
 
-  <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/overview.svg" />
 <div class="row">
   <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/languages.svg" />
   <img src="https://raw.githubusercontent.com/Yann21/Yann21/ce66b2684cc396edd75bca651bc882f9554e8063/res/languages.svg" />
@@ -35,4 +34,5 @@ Here are some ideas to get you started:
 -->
 
 ## Before you go... Let's stay in touch
-<img src="https://img.shields.io/badge/Yann Hoffmann%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+<!-- social media badge 
+<img src="https://img.shields.io/badge/Yann Hoffmann%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /> -->
