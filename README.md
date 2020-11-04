@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## Before you go... Let's stay in touch
-<!-- social media badge 
+ social media badge 
 <img src="https://img.shields.io/badge/Yann Hoffmann%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /> -->
