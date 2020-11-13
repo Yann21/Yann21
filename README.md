@@ -9,8 +9,8 @@
 </div>
 
 ### 🔭 I’m currently working on ...
-* Open Source Benchmarking (Student Job)
-* Transfer Learning (ML project)
+* [Open Source Benchmarking](https://github.com/Yann21/prometheus/) (Student Job)
+* [Transfer Learning](https://github.com/Yann21/transfer-learning) (ML project)
 * Big Data framework comparison (private repo) on the [UL HPC](https://hpc.uni.lu/systems/iris/) - Iris Cluster
 ### 🌱 I’m currently learning ...
 * AWS Cloud Practionner
