@@ -13,8 +13,8 @@
 * [Transfer Learning](https://github.com/Yann21/transfer-learning) (ML project)
 * Big Data framework comparison (private repo) on the [UL HPC](https://hpc.uni.lu/systems/iris/) - Iris Cluster
 ### 🌱 I’m currently learning ...
-* AWS Cloud Practionner
 * TensorFlow Certification
+* AWS Certified Solutions Architect
 
 <!--
 ## Previous Projects (WIP)
