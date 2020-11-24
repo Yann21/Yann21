@@ -16,8 +16,9 @@
 * AWS Cloud Practionner
 * TensorFlow Certification
 
+<!--
 ## Previous Projects (WIP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Yann21/Yann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
