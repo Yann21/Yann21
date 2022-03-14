@@ -9,7 +9,7 @@
 </div>
 
 ### My medium articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yann21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0" alt="Recent Article 0">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yann21&repo=cookiecutter-exp-launcher)](https://github.com/Yann21/cookiecutter-exp-launcher) 
 
 ### 🔭 I’m currently working on ...
