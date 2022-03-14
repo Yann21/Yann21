@@ -10,7 +10,7 @@
 
 ### My medium articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0" alt="Recent Article 0">
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yann21&repo=cookiecutter-exp-launcher)](https://github.com/Yann21/cookiecutter-exp-launcher) 
 
 ### 🔭 I’m currently working on ...
 * [Open Source Benchmarking](https://github.com/Yann21/prometheus/) (Student Job)
@@ -21,7 +21,7 @@
 * AWS Certified Solutions Architect
 
 ## Previous Projects (WIP)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 <!--
 **Yann21/Yann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
