@@ -1,7 +1,7 @@
 ## Howdy there, traveler 👋
 
 
-[![Yann's github stats](https://github-readme-stats.vercel.app/api?username=Yann21)](https://github.com/Yann21/github-readme-stats)
+<!-- [![Yann's github stats](https://github-readme-stats.vercel.app/api?username=Yann21)](https://github.com/Yann21/github-readme-stats) -->
 
 <div class="row">
   <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/languages.svg" />
