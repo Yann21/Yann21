@@ -3,10 +3,12 @@
 
 <!-- [![Yann's github stats](https://github-readme-stats.vercel.app/api?username=Yann21)](https://github.com/Yann21/github-readme-stats) -->
 
+<!--
 <div class="row">
   <img src="https://raw.githubusercontent.com/Yann21/github-stats/e83259b8c37574a69e128d26fc086c8c17cb4b36/generated/languages.svg" />
   <img src="https://raw.githubusercontent.com/Yann21/Yann21/ce66b2684cc396edd75bca651bc882f9554e8063/res/languages.svg" />
 </div>
+-->
 
 ### My medium articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yann21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0" alt="Recent Article 0">
