@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 -->
 
 ## Let's work together
-I am freelancing on Fiverr so feel free to send me a message if you want to develop an idea. <br />
+I am freelancing on Fiverr so feel free to send me a message if you want to develop an idea. First come, first served.<br />
 https://www.fiverr.com/yannhoffmann650
