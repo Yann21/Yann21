@@ -14,6 +14,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yann21/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Yann21/0" alt="Recent Article 0">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yann21&repo=cookiecutter-exp-launcher)](https://github.com/Yann21/cookiecutter-exp-launcher) 
 
+<!--
 ### 🔭 I’m currently working on ...
 * [Open Source Benchmarking](https://github.com/Yann21/prometheus/) (Student Job)
 * [Transfer Learning](https://github.com/Yann21/transfer-learning) (ML project)
@@ -38,8 +39,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+-->
 
-<!--
 ## Before you go... Let's stay in touch
  social media badge 
-<img src="https://img.shields.io/badge/Yann Hoffmann%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Yann Hoffmann%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
