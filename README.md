@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
--->
 
-## Before you go... Let's stay in touch
- social media badge 
-<img src="https://img.shields.io/badge/Yann Hoffmann%20-%230073b1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+## Let's work together
+I am freelancing on Fiverr so feel free to send me a message if you want to develop an idea.
+https://www.fiverr.com/yannhoffmann650
