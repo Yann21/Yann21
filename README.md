@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 -->
 
 ## Let's work together
-Feel free to send me a message if you want to develop an idea. First come, first served.<br />
+Feel free to send me a message if you want to develop an idea.<br />
 contact@yannhoffmann.com
